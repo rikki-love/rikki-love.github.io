@@ -19,21 +19,21 @@ tags: []     # TAG names should always be lowercase
 
 ## Big-Data Driven Science
 
-*0. Questions*
+- Questions
 
 **RNG**: Robot, Nanotech, genetics
 
-*1. Information*
+- Information
 
 Biological / medical data: images, sequences, etc.
 
 Thanks to **NGS**(next-generation sequencing), personal and medical sequencing provide **Big & HD data**.
 
-*2. Analysis - interpreting the data*
+- Analysis - interpreting the data
 
 Different **RNA Variations** have different **sequencing methods & bioinformatics tools**.
 
-*3. Modeling*
+- Modeling
 
 Machine Learning Models:
 
@@ -48,7 +48,7 @@ Deep Learning <- Neural Network Model
 > Algorithm和Model的区别：Modeling包括probabilistic model和computational algorithm两部分。算法是实现概率模型的工具，利用算法和数据训练出的才是模型。模型基于背后的概率框架，可以描述和预测对象。
 {: .prompt-warning }
 
-*4. Questions*
+- Questions
 
 当下的数据过多，因而生物信息学其实是big-data driven而非question driven，经历以上三步后再去发现问题。
 
