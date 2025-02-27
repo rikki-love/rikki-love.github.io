@@ -5,7 +5,7 @@ categories: [Bioinformatics]
 tags: []     # TAG names should always be lowercase
 ---
 > 我是来自生命学院的董予，学号2023030005。课程学习计划在本页面最后一部分。
-> {: .prompt-tip }
+{: .prompt-tip }
 
 ## 关于编程
 
@@ -46,7 +46,7 @@ Naive Bayes, K-nearest neighbor, Hidden Markov model, Genetic Algorithm
 Deep Learning <- Neural Network Model
 
 > Algorithm和Model的区别：Modeling包括probabilistic model和computational algorithm两部分。算法是实现概率模型的工具，利用算法和数据训练出的才是模型。模型基于背后的概率框架，可以描述和预测对象。
-> {: .prompt-warning }
+{: .prompt-warning }
 
 *4. Questions*
 
